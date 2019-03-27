@@ -1,2 +1,2 @@
 # mantul
-bas why.sh
+bash why.sh
